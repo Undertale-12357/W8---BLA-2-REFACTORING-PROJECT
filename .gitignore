@@ -24,8 +24,6 @@ lib/Term2/w8-B4-practice
 # Unuse Assets
 assets/Term1
 
-assets/
-
 # IntelliJ related
 *.iml
 *.ipr
